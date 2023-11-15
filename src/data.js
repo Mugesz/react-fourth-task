@@ -1,12 +1,12 @@
 const course = [
     {
-      img:'https://static.guvi.in/course-thumbnail/html_css.png',
+      img:"https://wallpapercave.com/wp/wp2742499.jpg",
       name: "HTML & CSS",
       description : "HTML and CSS are scripting languages used to create a web page and web applications.",
       id : "Full stack"
     },
     {
-      img:'https://static.guvi.in/course-thumbnail/advancedjavascriptenglish.png',
+      img:'https://images.unsplash.com/photo-1592609931095-54a2168ae893?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8amF2YXNjcmlwdHxlbnwwfHwwfHx8MA%3D%3D',
       name: "JavaScript",
       description : "JavaScript is a powerful language that can do a lot with very little code. In some cases, the amount of code you need to write doesn't exceed more than a single line, which is why they are known as one-liners.",
       id : "Full stack"
@@ -18,25 +18,25 @@ const course = [
       id : "Full stack"
     },
     {
-      img:'https://static.guvi.in/course-thumbnail/nodejsenglish.png',
+      img:'https://developers.redhat.com/sites/default/files/styles/article_feature/public/nodejs-reference-architecture_1x.png?itok=QbpLsgj_',
       name: "Node.js",
       description : "Developers use Node. js to create server-side web applications, and it is perfect for data-intensive applications since it uses an asynchronous, event-driven model. ",
       id : "Full stack"
     },
     {
-      img:'https://static.guvi.in/course-thumbnail/mongodbenglish.png',
+      img:'https://images.ctfassets.net/23aumh6u8s0i/6wTbGkTM3EBoO6hytvOcXj/d0144f86227382219fd2c8f4f53499c6/illustration',
       name: "MongoDB",
       description : "MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. ",
       id : "Full stack"
     },
     {
-      img:'https://static.guvi.in/course-thumbnail/bootstraptamiltamil.png',
+      img:'https://lh3.googleusercontent.com/Uug_uA2Bi-KWiVrvfGHJ-Fh9DJpEVQH-L0P3K4kJ3HKsK7jNds35X9ksVz2EmpcHR1_i9wwrj4x88YkqqS-US8T_tMo=w640-h400-e365-rj-sc0x00ffffff',
       name: "Bootstrap",
       description : "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps.",
       id : "Full stack"
     },
     {
-      img:'https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png',
+      img:'https://blog.petehouston.com/wp-content/uploads/2017/08/Express-2.jpg',
       name: "Express.js",
       description : "Express is a node js web application framework that provides broad features for building web and mobile applications.",
       id : "Full stack"
@@ -54,13 +54,13 @@ const course = [
       id : "Data Science"
     },
     {
-      img:'https://static.guvi.in/course-thumbnail/keras.png',
+      img:'https://www.shutterstock.com/image-photo/west-bangal-india-july-5-260nw-2374194687.jpg',
       name: "Keras",
       description : "Keras is a high-level, deep learning API developed by Google for implementing neural networks.",
       id : "Data Science"
     },
     {
-      img:'https://cdn.sanity.io/images/tlr8oxjg/production/bdb77d61d1ef7dc459bf17ae010658476c00d420-1456x816.png',
+      img:'https://thumbs.dreamstime.com/b/data-protection-cyber-security-privacy-business-internet-technology-concept-153621251.jpg',
       name: "Cyber security",
       description : "Cyber security refers to every aspect of protecting an organization and its employees and assets against cyber threats. ",
       id : "Cyber security"
