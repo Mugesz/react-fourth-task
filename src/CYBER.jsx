@@ -3,7 +3,7 @@ import React from "react";
 import Bottom from "./Bottom";
 import Card from "./Card";
 
-const CAREER = ({ course }) => {
+const CYBER = ({ course }) => {
   return (
     <>
       <div className="container">
@@ -19,8 +19,9 @@ const CAREER = ({ course }) => {
           </div>
           <Bottom />
           {course.map((item, index) => {
-            if (item.id === "Career") return <Card key={index} item={item} />;
-            return null;
+            if (item.id === "Cyber security")
+              return <Card key={index} item={item} />;
+            return null;  
           })}
         </div>
       </div>
@@ -28,4 +29,4 @@ const CAREER = ({ course }) => {
   );
 };
 
-export default CAREER;
+export default CYBER;

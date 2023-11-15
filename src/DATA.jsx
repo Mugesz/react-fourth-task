@@ -1,26 +1,29 @@
 import React from "react";
 
 import Bottom from "./Bottom";
+import dataimg from "./data.jpeg";
 import Card from "./Card";
 
-const CAREER = ({ course }) => {
+const DATA = ({ course }) => {
   return (
     <>
       <div className="container">
         <div className="row">
           <div className="col-xl-12">
             <img
-              style={{ width: "100%" }}
               className="responsive-image"
+              style={{width:"100%"}}
               height={300}
-              src="https://www.guvi.in/blog/wp-content/uploads/2022/04/July-last-week-offer-cover-2048x453.webp"
+              src={dataimg}
               alt=""
             />
           </div>
           <Bottom />
-          {course.map((item, index) => {
-            if (item.id === "Career") return <Card key={index} item={item} />;
-            return null;
+          {course.map((item,index) => {
+            if (item.id === "Data Science") 
+              return <Card key={index} item={item}/>
+            return null; 
+            
           })}
         </div>
       </div>
@@ -28,4 +31,4 @@ const CAREER = ({ course }) => {
   );
 };
 
-export default CAREER;
+export default DATA;
