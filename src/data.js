@@ -12,7 +12,7 @@ const course = [
       id : "Full stack"
     },
     {
-      img:'https://static.guvi.in/course-thumbnail/reactjsenglish8.png',
+      img:'https://e1.pxfuel.com/desktop-wallpaper/556/915/desktop-wallpaper-how-to-install-reactjs-frontend.jpg',
       name: "React Js",
       description : "React Js Js is a globally used Front-end JS framework and is popular with both software developers and project sponsors.",
       id : "Full stack"
