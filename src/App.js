@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <div className="text-start">
-          <img src="https://www.guvi.in/build/images/guvi-logo.e8ad68fbd8dc0a5fc2f7c4ffd580c54d.png" alt="Guvi Logo" />
+          <h1>GUVI ZEN</h1>
         </div>
         <div className="container text-center">
           <div className="row">
