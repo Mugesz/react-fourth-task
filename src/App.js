@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <div className="text-start">
-          <h1>GUVI ZEN</h1>
+          <h1>Guvi Zen</h1>
         </div>
         <div className="container text-center">
           <div className="row">
